@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "219381405132",
+    "project_id": "pulperia-500ef",
+    "storage_bucket": "pulperia-500ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219381405132:android:cf14e8b128f85f6bbd3969",
+        "android_client_info": {
+          "package_name": "com.cmatamoros00791.pulperia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219381405132-il9umu0k1glo0c8c9k4moc5mcnblaolm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cmatamoros00791.pulperia",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "219381405132-i9i3jlc86umrktlm8p2rinttamir5sv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPrkzIEMw__w9JggYcKWkFWRkF-iA09vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219381405132-i9i3jlc86umrktlm8p2rinttamir5sv6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219381405132-lb280oatqlrdu0sa4trrlicjtcrirtt4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cmatamoros00791.pulperia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
